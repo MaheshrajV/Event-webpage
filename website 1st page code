@@ -1,0 +1,37 @@
+//code for 1st page
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+    <h1>Error Makes Clever🚀</h1><hr>
+    <h3>coding | compile | generate a output</h3>
+    <p>"Embrace the Mistakes, Unlock the Genius!"Making of code with your inovation makes a lead of society</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WGHG2wCq-6E?si=zpQcmcRzmp4rx3LV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    <p>"Error makes clever" suggests that mistakes and failures are essential to growth and learning. When we make errors, we are forced to think critically, adapt, and find better solutions. These experiences often lead to innovation, creativity, and deeper understanding. In essence, failure is not something to avoid but a valuable step toward becoming smarter and more skilled."Embrace the Mistakes, Unlock the Genius!" highlights the idea that mistakes are not roadblocks but stepping stones to greater creativity and innovation. When we make errors, we are pushed out of our comfort zones, forcing us to rethink, adapt, and refine our approach.</p>
+    <p>This process of trial and error fosters resilience and problem-solving skills, enabling us to discover more effective solutions. By acknowledging that failure is an inevitable and valuable part of growth, we unlock new perspectives, learn from our experiences, and ultimately tap into our true potential. Embracing mistakes encourages a mindset shift, where challenges become opportunities for learning, growth, and, ultimately, genius.</p>
+    <h3>Levels of programming lanuages:</h3>
+    <ul>
+        <li>High level lanuage</li>
+        <li>Low level lanuage</li>
+        <li>Scripting lanuage</li>
+        <li>Markup lanuage</li>
+    </ul>
+    <h3>Technologies Used for Full Stack Development:</h3>
+    <Table border="2">
+        <tr><td><h4>Frontend</h4></td><td><h4>Backend</h4></td><td><h4>Database</h4></td></tr>
+        <tr><td>HTML</td><td>Java</td><td>Mongo DB</td></tr>
+        <tr><td>CSS</td><td>Python</td><td>Mysql</td></tr>
+        <tr><td>Javascript</td><td>Node js</td><td>AWS</td></tr>
+    </Table>
+    <hr>
+    <center>
+        <a href="http://127.0.0.1:5500/2ndweb.html" alt="Click here">For more information you have to register</a>
+    </center>
+</body>
+</html>
